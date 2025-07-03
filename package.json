@@ -35,7 +35,8 @@
   },
   "homepage": "https://github.com/HatScripts/circle-flags#readme",
   "scripts": {
-    "convert-to-png": "node convert-svg-to-png.js"
+    "convert-to-png": "node convert-svg-to-png.js",
+    "compress-png": "node compress-png.js"
   },
   "devDependencies": {
     "sharp": "^0.33.0"
